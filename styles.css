@@ -1,0 +1,26 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+body > * {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.header-container,
+.hero-container {
+  background-color: #1f2937;
+  color: #f9faf8;
+  margin: 0px 0px;
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  height: auto;
+}
+
+
+
+
+
